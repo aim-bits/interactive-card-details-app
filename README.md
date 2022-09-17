@@ -35,13 +35,8 @@ state management system, and most importantly know when to put a component into 
 - Mobile responsiveness
 - Changing the UI after registeration for confirmation
 
-### Useful resources
-
-- [Kudvenkat](https://www.youtube.com/watch?v=DnJPpae-WGM&t=166s) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-
 
 ## Author
-
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@aimbits](https://www.twitter.com/aimbits)
